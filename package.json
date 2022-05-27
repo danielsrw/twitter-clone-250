@@ -6,9 +6,19 @@
     "start": "next start"
   },
   "dependencies": {
+    "@headlessui/react": "^1.6.3",
+    "@heroicons/react": "^1.0.6",
+    "emoji-mart": "^5.0.0",
+    "firebase": "^9.8.1",
+    "moment": "^2.29.3",
     "next": "latest",
+    "next-auth": "^4.3.4",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-firebase-hooks": "^5.0.3",
+    "react-moment": "^1.1.2",
+    "recoil": "^0.7.3-alpha.2",
+    "tailwind-scrollbar-hide": "^1.1.7"
   },
   "devDependencies": {
     "@types/node": "17.0.4",
